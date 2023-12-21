@@ -1,0 +1,1 @@
+Created this deep q network for cartpole game which uses the concept of neural network to predict the q value used tensorflow and rl module for neural network and DQNagent .For Environment we are using openAI's Gymansium's gym extension which provide us diverse game environments incuding 3d environment ,from where we used Cartpole environment
